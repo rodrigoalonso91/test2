@@ -73,7 +73,7 @@ namespace test2
             this.Controls.Add(this.Lbl_1);
             this.Controls.Add(this.Btn_SaveText);
             this.Name = "MainForm";
-            this.Text = "Test3";
+            this.Text = "Test2";
             this.ResumeLayout(false);
             this.PerformLayout();
 
